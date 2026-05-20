@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=Fillia911&hide_border=true&background=0d1117&ring=865AF5&fire=e34c26&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=1f6feb&sideLabels=1f6feb&dates=8b949e&stroke=865AF5" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Fillia911&hide_border=true&background=0d1117&ring=865AF5&fire=e34c26&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=1f6feb&sideLabels=1f6feb&dates=8b949e&stroke=865AF5&v=3" alt="GitHub Streak" />
 
 <br>
 
